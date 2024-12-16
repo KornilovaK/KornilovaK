@@ -1,16 +1,26 @@
-## Hi there 👋
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="Kornilova Ekaterina photo" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
-<!--
-**KornilovaK/KornilovaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+* *Kornilova Ekaterina*
+* Moscow, Russia
+* Katya.Kornil10@gmail.com
+* https://t.me/kkskkf
 
-Here are some ideas to get you started:
+|           |                     Hard skills|
+|----------:|--------------------------------|
+|Programming|                     Python, C++|
+|   Software| SQL, Git, Docker, Triton, Linux|
+|         ML|      DL, ML, Analytics, CV, NLP|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## EDUCATION
+National University of Science and Technology MISIS, Applied Math
+
+## COURCES
+* Giraffe-ai MIPT: Classical and deep ml
+* NLP course for you: NLP
+* Deep Learning School: Deep learning, CV/NLP
