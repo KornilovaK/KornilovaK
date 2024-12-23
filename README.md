@@ -34,6 +34,12 @@ projects.
 We developed an LLM-based RAG system to fix annotators' errors. There are a fusion of FAISS retrieval and BM25 and an ensemble on 3 LLMs: Llama 3.1, Qwen 2.5, Gemma 2
 </details>
 
+### [Telegram bot for generating contextual stickers](https://github.com/firegory/StickerIt.git)
+<details>
+<summary>December 2024</summary>
+The latest messages when calling the bot are sent to the input of the LM (Qwen 2.5 with SFT). It generates a coherent prompt, which is fed to the input of the diffusion image model (Kaspersky), at the output of which we get our sticker
+</details>
+
 ### [Reflex Attention](https://github.com/KornilovaK/reflex_attention.git)
 <details>
 <summary>November 2024</summary>
@@ -41,7 +47,7 @@ I implemented the modified attention blocks in the gpt architecture and conducte
 with different implementations and parameters.
 </details>
 
-### [Telegram bot ”QAcumber”](https://github.com/KornilovaK/tg-bot-russian-qa.git)
+### [Telegram bot ”QAcumber” for question-answering task](https://github.com/KornilovaK/tg-bot-russian-qa.git)
 <details>
 <summary>September 2024</summary>
 I’ve collected datasets, fine tuned Distillbert and T5 with Lora for QA task in Russian, integrated trained model to tg
