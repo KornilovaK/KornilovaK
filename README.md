@@ -1,25 +1,27 @@
 # About me 
 
-|           |                     Hard skills|
-|----------:|--------------------------------|
-|Programming|                     Python, C++|
-|   Software| SQL, Git, Docker, Triton, Linux|
-|         ML|      DL, ML, Analytics, CV, NLP|
+|           |                       Hard skills|
+|----------:|----------------------------------|
+|Programming|                       Python, C++|
+|   Software|   SQL, Git, Docker, Triton, Linux|
+|         ML|DL, ML, Analytics, CV, NLP, Agents|
 
 
 ## EDUCATION
 National University of Science and Technology MISIS, Applied Math, Bachelor
+
+## EXPIRIENCE
+### Intern Data Scientist at Sber Rist Modeling & Research, January 2025 - now
+
+### ML Teacher for students from specialized Moscow Math schools, September - December 2024
+> I conducted lectures and seminars in various areas of ML, and at the end of the course they will have to prepare and defend
+projects.
 
 
 ## COURCES
 * Giraffe-ai MIPT: Classical and deep ml
 * NLP course for you: NLP
 * Deep Learning School: Deep learning, CV/NLP
-
-## EXPIRIENCE
-### ML Teacher for students from specialized Moscow Math schools, September - December 2024
-> I conduct lectures and seminars in various areas of ML, and at the end of the course they will have to prepare and defend
-projects.
 
 ## ACHIEVEMENTS
 * One of 20 participants of T-Bank — Sirius University educational program. Theme: Modern machine learning technologies and their applications. Direction: NLP. Sochi, Russia, December 2024
