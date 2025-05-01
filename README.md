@@ -12,8 +12,8 @@ National University of Science and Technology MISIS, Applied Math, Bachelor
 
 ## EXPIRIENCE
 ### Data Scientist at Sber Rist Modeling & Research, RnD
-Agents, RAG, LLMs, papers <3
-January - May 2025
+January 2024 - May 2025
+> I worked on Agents, RAG, LLMs, papers <3
 
 ### ML Teacher for students from specialized Moscow Math schools
 September - December 2024
