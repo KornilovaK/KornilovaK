@@ -31,6 +31,12 @@ projects.
 * Winner of IT case championship ”CUP IT”, award: ”High Quality Awards”. Section: ”Data Analytics”. Moscow, Russia, April 2024
 
 ## PROJECTS
+### [Reflex Attention](https://github.com/KornilovaK/DecoderArchitecture.git)
+<details>
+<summary>May 2025</summary>
+I implemented the modified attention blocks in the gpt architecture
+</details>
+
 ### [LLM data labeling](https://github.com/Dimmension/tbank-ml-camp-sirius.git)
 <details>
 <summary>December 2024</summary>
@@ -41,13 +47,6 @@ We developed an LLM-based RAG system to fix annotators' errors. There are a fusi
 <details>
 <summary>December 2024</summary>
 The latest messages when calling the bot are sent to the input of the LM (Qwen 2.5 with SFT). It generates a coherent prompt, which is fed to the input of the diffusion image model (Kaspersky), at the output of which we get our sticker
-</details>
-
-### [Reflex Attention](https://github.com/KornilovaK/reflex_attention.git)
-<details>
-<summary>November 2024</summary>
-I implemented the modified attention blocks in the gpt architecture and conducted experiments by training several models
-with different implementations and parameters.
 </details>
 
 ### [Telegram bot ”QAcumber” for question-answering task](https://github.com/KornilovaK/tg-bot-russian-qa.git)
