@@ -11,6 +11,8 @@
 National University of Science and Technology MISIS, Applied Math, Bachelor
 
 ## EXPIRIENCE
+### Now: ML engineer at Yandex
+
 ### Data Scientist at Sber Rist Modeling & Research, RnD
 > I worked on Agents, RAG, LLMs, papers <3
 
