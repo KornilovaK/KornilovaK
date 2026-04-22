@@ -8,7 +8,7 @@
 
 
 ## EDUCATION
-National University of Science and Technology MISIS, Applied Math, Bachelor
+The Russian Presidential Academy of National Economy and Public Administration, Applied computer science, Bachelor
 
 ## EXPIRIENCE
 ### Now: Data Scientist at Sber 
