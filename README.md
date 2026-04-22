@@ -11,10 +11,13 @@
 National University of Science and Technology MISIS, Applied Math, Bachelor
 
 ## EXPIRIENCE
-### Now: ML engineer at Yandex
+### Now: Data Scientist at Sber 
 
-### Data Scientist at Sber Rist Modeling & Research, RnD
-> I worked on Agents, RAG, LLMs, papers <3
+### ML engineer at Yandex
+> Made an AI agent-assistant for Yandex Taxi
+
+### Intern Data Scientist at Sber Rist Modeling & Research, RnD
+> I worked on Agents, RAG, LLMs, papers 
 
 ### ML Teacher for students from specialized Moscow Math schools
 > I conducted lectures and seminars in various areas of ML, and at the end of the course they will have to prepare and defend
