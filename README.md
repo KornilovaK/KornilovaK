@@ -11,12 +11,12 @@
 The Russian Presidential Academy of National Economy and Public Administration, Applied computer science, Bachelor
 
 ## EXPIRIENCE
-### Now: Middle Data Scientist at Sber 
+### Now: Data Scientist at Sber 
 
-### Middle ML engineer at Yandex
+### ML engineer at Yandex
 > Made an AI agent-assistant for Yandex Taxi
 
-### Intern Data Scientist at Sber Rist Modeling & Research, RnD
+### Data Scientist at Sber Rist Modeling & Research, RnD
 > I worked on Agents, RAG, LLMs, papers 
 
 ### ML Teacher for students from specialized Moscow Math schools
